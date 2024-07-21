@@ -1,4 +1,4 @@
-#  SO-SLAM
+#  SO-SLAM (unofficial)
 
 
 <p align="center">
